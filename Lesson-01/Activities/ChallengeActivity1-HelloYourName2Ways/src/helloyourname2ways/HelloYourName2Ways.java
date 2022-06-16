@@ -25,6 +25,14 @@ public class HelloYourName2Ways {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        Scanner sc=new Scanner(System.in);
+        system.out.println("Enter your first name");
+     int name=sc.nextInt();
+             system.out.println("Enter your last name");
+     int name1=sc.nextInt();
+     
+     system.out.orintln("full name is"+(name+name1));
+     
 
     }
     
